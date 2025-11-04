@@ -1,0 +1,26 @@
+Model Evaluation Results
+=======================
+
+Best Parameters:
+{'C': 1}
+
+Accuracy Score:
+0.8550
+
+ROC AUC Score:
+0.7087
+
+Confusion Matrix:
+[[717   8]
+ [115   8]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92       725
+           1       0.50      0.07      0.12       123
+
+    accuracy                           0.85       848
+   macro avg       0.68      0.53      0.52       848
+weighted avg       0.81      0.85      0.80       848
+
